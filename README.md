@@ -1,9 +1,9 @@
 # hello-world
 A Celebration of Life - In Memory of Kobe Bryant.
-This is Wei Li from Hangzhou. 
-I renamed my nickname as MambaWay08 in order to memorize the GOAT Kobe Bryant.
+This is Wei Li from Hangzhou CHN. 
+I renamed my nickname as MambaWay08 in order to memorize the NBA GOAT Kobe Bryant.
 Mamba is the nickname of kobe, While Way is the same pronuciation as Wei.
-08 stands not only for Kobe's jersey number but also his and my birth month - August.
-I create this GitHub account just to seek for an alternative way of saving my mid-life crisis especially without Dear Basketball and Dear Kobe.
-Hope this could be a good start of a compeletely new journey in the next few years. 
+08 stands not only for Kobe's jersey number but also both his birth month and mine - the August.
+I create this GitHub account MambaWay08 for the purpose of seeking for an alternative way to saving my mid-life crisis without Dear Basketball and Dear Kobe.
+
 Hello World!
